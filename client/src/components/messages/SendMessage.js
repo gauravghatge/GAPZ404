@@ -48,7 +48,7 @@ const SendMessage = () => {
           <div className="card card-signin my-5">
             <div className="card-body">
               <h2 className="card-title text-center">
-                Say Something Gopone to{" "}
+                Say Something Secretly to{" "}
                 <span style={{ color: "red" }}>{username}</span>
               </h2>
               <p className="my-4 text-center">
