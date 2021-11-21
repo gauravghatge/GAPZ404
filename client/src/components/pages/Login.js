@@ -74,6 +74,7 @@ const Login = (props) => {
                 <button
                   className="btn btn-lg btn-outline-primary btn-block text-uppercase"
                   type="submit"
+                  id="mysub"
                 >
                   Sign in
                 </button>
