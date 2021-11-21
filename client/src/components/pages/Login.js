@@ -41,7 +41,7 @@ const Login = (props) => {
         <div className="col-sm-9 col-md-7 col-lg-7 mx-auto">
           <div className="card card-signin my-5">
             <div className="card-body">
-              <h2 className=" text-center">Sign In krooooo</h2>
+              <h2 className=" text-center">Sign In</h2>
               <form className="form-signin" onSubmit={handleSubmit}>
                 <div className="form-label-group">
                   <input
